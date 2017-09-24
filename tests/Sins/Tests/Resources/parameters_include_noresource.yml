@@ -1,0 +1,9 @@
+imports:
+    - { resource: 'parameters_base_nonexisting.yml' }
+
+parameter2: value2_include
+parameter3: %container_value%include
+
+parameter_arr:
+    key1: value1_inc
+    key2: value2_inc

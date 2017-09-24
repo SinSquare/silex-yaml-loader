@@ -1,0 +1,7 @@
+parameter1: value1_base
+parameter2: value2_base
+parameter3: value3_base
+
+parameter_arr:
+    key1: value1_base
+    key2: value2_base

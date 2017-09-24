@@ -1,0 +1,6 @@
+parameter2: value2_new
+parameter3: %container_value%
+
+parameter_arr:
+    key1: value1_new
+    key2: value2_new
